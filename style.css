@@ -67,6 +67,7 @@ ul li .fa-trash{
     position: absolute;
     right: 10%;
     top: 30%;
+    cursor: pointer;
     
 }
 ul li .fa-square-check{
@@ -74,8 +75,8 @@ ul li .fa-square-check{
     position: absolute;
     right: 20%;
     top: 30%;
-
-    
+    cursor: pointer;
+ 
 }
 
 
