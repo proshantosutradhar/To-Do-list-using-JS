@@ -60,14 +60,8 @@ ul li{
     border-top: dotted
 
 
-
-
-
 }
 
-.fa-solid{
-    margin-left: 11px;
-}
 ul li .fa-trash{
     color: rgb(255, 0, 0);
     position: absolute;
@@ -90,5 +84,5 @@ ul li .fa-square-check{
 .checked{
     color: rgb(128, 0, 0);
     text-decoration: line-through;
-    
+
 }
